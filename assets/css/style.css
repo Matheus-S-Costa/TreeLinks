@@ -26,6 +26,7 @@ html {
 }
 .profile {
     border-radius: 50%;
+    border: 1px solid white;
 }
 ul {
     margin-top: 1%;
