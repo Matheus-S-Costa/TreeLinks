@@ -76,6 +76,7 @@ ul li a:hover {
 @media (max-width: 600px) {
     ul li a {
     font-size: 1.2rem;
+    backdrop-filter: blur(4px);
     }
     .logo{
         width: 20px;
