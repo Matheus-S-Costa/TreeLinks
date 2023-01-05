@@ -27,6 +27,8 @@ html {
 .profile {
     border-radius: 50%;
     border: 1px solid white;
+    width: 130px;
+    height: 130px;
 }
 ul {
     margin-top: 1%;
