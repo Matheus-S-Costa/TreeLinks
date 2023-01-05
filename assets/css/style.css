@@ -92,6 +92,11 @@ ul li a:active {
     .footer {
         margin-bottom: 3px;
     }
+    ul li a:hover {
+       box-shadow: box-shadow
+        7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+      transform: translateY(4px);
+    }
 }
 /* Animation */
 
