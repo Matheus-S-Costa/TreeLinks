@@ -72,7 +72,7 @@ html {
     background-color: gray;
 }
 .switch .switch-wrapper input:checked + .switch-button {
-    background-color: black;
+    background-color: rgb(56, 56, 56);
 }
 .switch .switch-wrapper input:checked + .switch-button::before {
     transform: translateX(26px);
