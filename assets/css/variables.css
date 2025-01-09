@@ -1,11 +1,7 @@
 :root {
     --primary-color: #000000;
     --white-color: #ffffff;
-    --secondary-color: #1f1f23;
-    --gap: 3rem;
-    --menu-color: #0a0a0b;
     --light-gray-color: rgb(211, 211, 211);
     --background-color: #121214;
-    --test-color: #b4b4b4;
     --background: url('../images/whitebg.png');
 }

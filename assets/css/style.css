@@ -163,7 +163,7 @@ ul li a:active {
 }
 /* Animation */
 
-.box-img, .name{
+.box-img, .name, .tema{
     animation: fromTop 3s .2s backwards;
 }
 
